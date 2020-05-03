@@ -1,3 +1,6 @@
+import pandas as pd
+import numpy as np
+
 trump = []
 for line in open('project-trump.txt', 'r'):
     trump.append(json.loads(line))
