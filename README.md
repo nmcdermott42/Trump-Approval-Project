@@ -22,7 +22,8 @@ The results of this can be seen in the graph titled Net Tweet Point Totals, whic
 
 The table Top 25 Hashtags and Mentions gives both the top 25 hashtags and mentions pulled from the sample used. Some of the key issues discussed were QAnon, White House Correspondents Dinner, Iran, Kanye West, and the Indigenous People of Biafra. The variety displayed shows that the public is concerned with Trump’s involvements in many different directions from international issues to social media gossip. It also showed that the tweets collected were not focused on a specific issue, which could have served to bias the tweets in either a positive or negative direction based on the issue.
 ***
-####Top 25 Hashtags and Mentions
+
+#### Top 25 Hashtags and Mentions
 
 |		    |    **Hashtags**   |**# of Uses**| **Mentions** | **# of Uses** |
 |   :---:   |     --------      | --------: |    --------      | --------: |
