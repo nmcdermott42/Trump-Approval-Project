@@ -18,6 +18,9 @@ To categorize the tweets there needed to be further data which contained categor
 
 The results of this can be seen in the graph titled Net Tweet Point Totals, which shows that a majority of tweets ended with a net neutral polarity. This also shows that extremely polarized tweets were less common than slightly positive or negative tweets. After this point total was calculated for each tweet, they were average together in order to determine the average approval rating for Trump in the sample, which ended up being 0.718. 
 ***
+
+#### Net Tweet Point Totals
+
 ![Image](https://github.com/nmcdermott42/Trump-Approval-Project/blob/master/tweetpoints.png)
 
 The table Top 25 Hashtags and Mentions gives both the top 25 hashtags and mentions pulled from the sample used. Some of the key issues discussed were QAnon, White House Correspondents Dinner, Iran, Kanye West, and the Indigenous People of Biafra. The variety displayed shows that the public is concerned with Trump’s involvements in many different directions from international issues to social media gossip. It also showed that the tweets collected were not focused on a specific issue, which could have served to bias the tweets in either a positive or negative direction based on the issue.
