@@ -22,32 +22,34 @@ The results of this can be seen in the graph titled Net Tweet Point Totals, whic
 
 The table Top 25 Hashtags and Mentions gives both the top 25 hashtags and mentions pulled from the sample used. Some of the key issues discussed were QAnon, White House Correspondents Dinner, Iran, Kanye West, and the Indigenous People of Biafra. The variety displayed shows that the public is concerned with Trump’s involvements in many different directions from international issues to social media gossip. It also showed that the tweets collected were not focused on a specific issue, which could have served to bias the tweets in either a positive or negative direction based on the issue.
 ***
-|		    |     Hashtags      | # of Uses |    Mentions      | # of Uses |
-| :---: |     --------      | --------: |    --------      | --------: |
-|   1   | #trump            |   158     | @realdonaldtrump |   328     |
-|   2   | #maga             |   111     | @rvawonk         |   167     |
-|   3   | #whcd             |   75      | @krassenstein    |   160     |
-|   4   | #qanon            |   49      | @ryanafournier   |   153     |
-|   5   | #mondaymotivation |   35      | @mikel_jollett   |   145     |
-|   6   | #thebrooksbr      |   29      | @keithboykin     |   137     |
-|   7   | #michellewolf     |   25      | @hoarsewhisperer |   136     |
-|   8   | #whcd.            |   24      | @michelleisawolf |   130     |
-|   9   | #whca             |   24      | @kanyewest  	   |   117     |
-|  10   | #resist  		      |   22	  	| @potus		       |   104     |
-|  11   | #theresistance  	|   21	  	| @funder		       |   99      |
-|  12   | #iran			      	|   17		  | @sayshummingbird |   97 	   |
-|  13   | #trump'		      	|   17		  | @tonyposnanski   |   94	     |
-|  14   | #fakenews	     		|   17		  | @sarahkendzior   |   92 	   |
-|  15   | #veteransunited	  |   16		  | @presssec		     |   88	     |
-|  16 	| #veterans 	     	|   16		  | @tribelaw	  	   |   87 	   |
-|  17 	| #impeachtrump	   	|   16		  | @edkrassen	     |   80      |
-|  18 	| #magaveterans	  	|   16		  | @proudresister   |   71	     |
-|  19   | #morningjoe	    	|   15		  | @kathygriffin	   |   68	     |
-|  20   | #foxnews		    	|   15		  | @amy_siskind	   |   68      |
-|  21 	| #kanyewest	    	|   15		  | @teapainusa	     |   59	     |
-|  22   | #ipob				      |   14		  | @cnn			       |   55	     |
-|  23   | #whcd18			      |   13		  | @olivermcgee	   |   55	     |
-|  24 	| #kag 			      	|   12 		  | @theplumlinegs   |   52	     |
-|  25 	| #coup			      	|   12		  | @thehill		     |   48	     |
+####Top 25 Hashtags and Mentions
+
+|		    |    **Hashtags**   |**# of Uses**| **Mentions** | **# of Uses** |
+|   :---:   |     --------      | --------: |    --------      | --------: |
+|   **1**   | #trump            |   158     | @realdonaldtrump |   328     |
+|   **2**   | #maga             |   111     | @rvawonk         |   167     |
+|   **3**   | #whcd             |   75      | @krassenstein    |   160     |
+|   **4**   | #qanon            |   49      | @ryanafournier   |   153     |
+|   **5**   | #mondaymotivation |   35      | @mikel_jollett   |   145     |
+|   **6**   | #thebrooksbr      |   29      | @keithboykin     |   137     |
+|   **7**   | #michellewolf     |   25      | @hoarsewhisperer |   136     |
+|   **8**   | #whcd.            |   24      | @michelleisawolf |   130     |
+|   **9**   | #whca             |   24      | @kanyewest  	   |   117     |
+|  **10**   | #resist  		      |   22	  	| @potus		       |   104     |
+|  **11**   | #theresistance  	|   21	  	| @funder		       |   99      |
+|  **12**   | #iran			      	|   17		  | @sayshummingbird |   97 	   |
+|  **13**   | #trump'		      	|   17		  | @tonyposnanski   |   94	     |
+|  **14**   | #fakenews	     		|   17		  | @sarahkendzior   |   92 	   |
+|  **15**   | #veteransunited	  |   16		  | @presssec		     |   88	     |
+|  **16** 	| #veterans 	     	|   16		  | @tribelaw	  	   |   87 	   |
+|  **17** 	| #impeachtrump	   	|   16		  | @edkrassen	     |   80      |
+|  **18** 	| #magaveterans	  	|   16		  | @proudresister   |   71	     |
+|  **19**   | #morningjoe	    	|   15		  | @kathygriffin	   |   68	     |
+|  **20**   | #foxnews		    	|   15		  | @amy_siskind	   |   68      |
+|  **21** 	| #kanyewest	    	|   15		  | @teapainusa	     |   59	     |
+|  **22**   | #ipob				      |   14		  | @cnn			       |   55	     |
+|  **23**   | #whcd18			      |   13		  | @olivermcgee	   |   55	     |
+|  **24** 	| #kag 			      	|   12 		  | @theplumlinegs   |   52	     |
+|  **25** 	| #coup			      	|   12		  | @thehill		     |   48	     |
 
 One of the main conclusions is that Trump’s approval rating is significantly higher than his approval rating in polls conducted by firms like Rasmussen or Reuters. This difference in approval could be due to the medium by which we were measuring opinion because Trump has a very active Twitter presence. Another key conclusion from the data is that the public is focused on a wide variety of issues and Trump’s involvement in each of them. This points towards confirmation that the sample has a diverse set of opinions, giving a more accurate estimate of approval. 
