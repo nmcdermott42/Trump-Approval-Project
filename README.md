@@ -2,7 +2,7 @@
 
 ***
 
-##### This project was put together during a college course I took using python libraries like pandas and numpy as well as statistical methods to analyze data sets. In this project I used a the twitter api as well as python and tableau to try and create script that could get an in the moment approval rating of the president by assigning values to tweets that had mention of certain keywords related to him. Included in the repo are the .py files used to gather the tweet sample as well as the one used for anlysis. There is also a tableau workbook used to get generate some visualizations for the report
+##### This project was put together during a college course I took using python libraries like pandas and numpy as well as statistical methods to analyze data sets. In this project I used a the twitter api as well as python and tableau to try and create script that could get an in the moment approval rating of the president by assigning values to tweets that had mention of certain keywords related to him. The repo includes files for how to pull the tweet sample as well as perform the analysis to assign approval ratings to each tweet and assess the results. A tableau doc was put together than can be viewed [at this Public Tableau link](https://public.tableau.com/profile/nathan.mcdermott#!/vizhome/ApprovalRating_15885311844170/TweetSentimentPointAssignment)
 
 ***
 
